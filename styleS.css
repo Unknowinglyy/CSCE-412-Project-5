@@ -1,0 +1,15 @@
+li{
+    font-size: x-large;
+    margin: 15px;
+    font-family:'Lucida Grande';
+}
+body{
+    background-color: black;
+    color: white;
+    background-image: url('https://www.boredpanda.com/blog/wp-content/uploads/2017/12/Spellbound-Cave-Glowworms-SJP-1-5a332ab4987c3__880.jpg');
+    background-blend-mode:screen;
+    background-size: cover;
+}
+h1{
+    font-family: 'Helvetica';
+}

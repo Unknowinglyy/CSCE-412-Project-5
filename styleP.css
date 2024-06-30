@@ -1,0 +1,28 @@
+title{
+    font-family:Helvetica;
+}
+
+h1{
+    color: white;
+    font-family: 'Helvetica';
+}
+ul{
+    color: white;
+    font-size: larger;
+}
+body{
+    background-color: #191d26;
+    background-image: url('https://images.squarespace-cdn.com/content/54e2d3b5e4b0cb82a5b16bd4/1647905623442-EIV0FGU2A2YKETMTTZ2T/Fractal+tree+study.jpg?format=1500w&content-type=image%2Fjpeg');
+    background-size: cover;
+    background-blend-mode: lighten;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: purple;
+}
+li{
+    background: rgba(25,25,25,.9);
+    font-family: 'Lucida Grande';
+}

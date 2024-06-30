@@ -1,0 +1,22 @@
+body{
+    background-color: #12151c;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5d551402a75c9d00010c7df1/e03fd9a0-c36a-4d2a-aa2a-1d88cb0422ca/Robinia_pseudoacacia_root_system.jpeg');
+    background-blend-mode: lighten;
+    background-size: cover;
+}
+
+h1{
+    color:white;
+    background-color: rgba(25,25,25,.5);
+    font-family: 'Helvetica';
+}
+
+li{
+    color: white;
+    background-color: rgba(25,25,25,.5);
+    font-family:'Lucida Grande';
+}
+
+p{
+    color: white;
+}

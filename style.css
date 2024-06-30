@@ -1,0 +1,33 @@
+ul{
+    list-style: none;
+}
+
+li{
+    display:inline-block;
+    margin-right: 10px;
+}
+
+#about{
+    font-size: larger;
+}
+
+
+body {
+    background-color: #1b222c;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Encyclop%C3%A9die-_Diderot%27s_Tree_of_Knowledge.jpg/1368px-Encyclop%C3%A9die-_Diderot%27s_Tree_of_Knowledge.jpg');
+    background-blend-mode: soft-light;
+}
+
+.text{
+    color: white;
+    font-family: 'Helvetica';
+    background-color: rgba(25,25,25,.5);
+}
+
+button{
+    color: #661b1c;
+}
+
+button:hover{
+    color: #531516;
+}
